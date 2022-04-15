@@ -1,17 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 main()
-{
-
-//==================//*
-//GUILHERME HENRIQUE MACHADO RIBEIRO //
-// RAPHAEL GUSTAVO MEIRELES//
-//==================//*
-	
-//==================//*
-//DECLARAÇÃO DE VARIAVEIS//
-//==================//*
-	
+{	
 float gasolina = 7.04;
 float alcool = 5.09;	
 int km = 0;
@@ -31,6 +21,4 @@ milhas = km * 0.62137;
 metros = km / 0.001;
 centimetros = km / 0.00001;
 printf("%d km e igual a %f milhas %f metros e %f centimentros", km, milhas, metros, centimetros);
-
-	
 }
